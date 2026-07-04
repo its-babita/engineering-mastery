@@ -17,7 +17,7 @@
 You open your browser and type:
 
 ```
-https://github.com/openai/chatgpt
+https://github.com
 ```
 
 How does your browser know:
